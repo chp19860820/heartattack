@@ -7,7 +7,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
-
+/**
+ *@function 测试分支 
+ */
 public class IndexPage extends Activity {
 	private Button reback_button;
 	private TextView view_result;
