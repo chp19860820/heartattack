@@ -11,7 +11,6 @@ import android.widget.TextView;
 public class IndexPage extends Activity {
 	private Button reback_button;
 	private TextView view_result;
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
