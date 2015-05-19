@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeartAttack</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="login">登陆</string>
+    <string name="username">用户名：</string>
+    <string name="password">密    码：</string>
+    <string name="exit">退出</string>
+    <string name="mainpage">首页</string>
+	<string name="google">谷歌</string>
+	<string name="indexPage_back">上一页</string>
+</resources>
